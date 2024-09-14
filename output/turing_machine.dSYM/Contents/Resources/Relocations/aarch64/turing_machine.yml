@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/juanes/Desktop/proyecto turing/output/turing_machine'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000033D4, symSize: 0x5F0 }
+  - { offsetInCU: 0x59, offset: 0x59, size: 0x8, addend: 0x0, symName: _string, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0x7A, offset: 0x7A, size: 0x8, addend: 0x0, symName: _head, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: _string_length, symBinAddr: 0x100008068, symSize: 0x0 }
+  - { offsetInCU: 0xA0, offset: 0xA0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000033D4, symSize: 0x5F0 }
+  - { offsetInCU: 0x18C, offset: 0x18C, size: 0x8, addend: 0x0, symName: _update_string, symObjAddr: 0x5F0, symBinAddr: 0x1000039C4, symSize: 0x19C }
+  - { offsetInCU: 0x1CC, offset: 0x1CC, size: 0x8, addend: 0x0, symName: _print_message, symObjAddr: 0x78C, symBinAddr: 0x100003B60, symSize: 0x7C }
+...
